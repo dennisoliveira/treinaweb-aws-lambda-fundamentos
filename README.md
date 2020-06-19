@@ -5,9 +5,9 @@ Esse repositório contém trechos de scripts e os códigos utilizados durante o 
 #### Lista arquivos
 | Arquivos | Aula |
 | ------ | ------ |
-[tw-pyhton](https://github.com/treinaweb/treinaweb-aws-lambda-fundamentos/tree/master/tw-pyhton) | Criando uma função pelo console da AWS |
+[tw-pyhton](https://github.com/treinaweb/treinaweb-aws-lambda-fundamentos/tree/master/tw-python) | Criando uma função pelo console da AWS |
 [tw-node](https://github.com/treinaweb/treinaweb-aws-lambda-fundamentos/tree/master/tw-node) | Criando funções via AWS CLI |
-[tw-pyhton-lb](https://github.com/treinaweb/treinaweb-aws-lambda-fundamentos/tree/master/tw-pyhton-lb) | Integrando com Load Balancer |
+[tw-pyhton-lb](https://github.com/treinaweb/treinaweb-aws-lambda-fundamentos/tree/master/tw-python-lb) | Integrando com Load Balancer |
 [tw-node-s3](https://github.com/treinaweb/treinaweb-aws-lambda-fundamentos/tree/master/tw-node-s3) | Integrando com S3 |
 
 #### Referencias
